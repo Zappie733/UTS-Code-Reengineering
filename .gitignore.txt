@@ -1,1 +1,2 @@
-*.class
+after/*.class
+before/*.class
